@@ -57,7 +57,7 @@ const Contact = () => {
         <a href="https://github.com/Abdullahsabir123" className="contact-icon icon-2" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
-        <a href="https://wa.me/+923322737818" className="contact-icon icon-3" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/+923203216643" className="contact-icon icon-3" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faWhatsapp} />
         </a>
       </div>
