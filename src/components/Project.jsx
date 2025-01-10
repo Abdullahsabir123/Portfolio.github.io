@@ -2,6 +2,7 @@ import React from "react";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 
+
 function BasicExample() {
   return (
     <>
@@ -14,10 +15,7 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (3).png "
-            />
+            
             <Card.Body>
               <Card.Title>Netflix</Card.Title>
               <Card.Text>
@@ -37,10 +35,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (4).png"
-            />
             <Card.Body>
               <Card.Title>Resume Builder</Card.Title>
               <Card.Text>
@@ -61,10 +55,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (5).png"
-            />
             <Card.Body>
               <Card.Title>Timer</Card.Title>
               <Card.Text>
@@ -86,10 +76,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (6).png"
-            />
             <Card.Body>
               <Card.Title>Template</Card.Title>
               <Card.Text>
@@ -111,10 +97,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (7).png"
-            />
             <Card.Body>
               <Card.Title>Home-Brandstore</Card.Title>
               <Card.Text>
@@ -132,10 +114,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (10).png"
-            />
             <Card.Body>
               <Card.Title>Transport-web</Card.Title>
               <Card.Text>
@@ -152,10 +130,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (9).png"
-            />
             <Card.Body>
               <Card.Title>E-com</Card.Title>
               <Card.Text>
@@ -172,10 +146,6 @@ function BasicExample() {
             style={{ width: "18rem" }}
             className="card text-center mt-5 margin-top"
           >
-            <Card.Img
-              className="image"
-              src="/src/components/images/Screenshot (11).png"
-            />
             <Card.Body>
               <Card.Title>Stop-watch</Card.Title>
               <Card.Text>
